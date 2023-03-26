@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT,File path,Line no
+.,org.example,EraseContent,0,0,1,1,14,1,0,2,-1.0,0,0,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\EraseContent.java,7
+.,org.example,FileOperations,1,0,3,3,41,4,1,1,0.6666666666666666,2,0,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\FileOperations.java,5
+.,org.example,FileOperations.FileContentDeleter,0,0,0,0,14,0,0,0,-1.0,0,0,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\FileOperations.java,34
+.,org.example,Main,0,0,4,4,198,23,0,0,-1.0,0,4,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\Main.java,13
+.,org.example,Md5,0,0,1,1,5,1,0,1,-1.0,1,0,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\Md5.java,3
+.,org.example,Query,1,0,4,4,106,13,1,0,1.0,1,2,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\Query.java,10
+.,org.example,Security,0,0,1,1,17,2,1,0,-1.0,0,0,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\Security.java,7
+.,org.example,UserData,9,1,18,18,65,18,0,0,0.5,2,0,C:\Users\AVuser\Desktop\CRUD\.\src\main\java\org\example\UserData.java,3

@@ -1,0 +1,33 @@
+Project Name,Package Name,Type Name,Method Name,LOC,CC,PC,Line no,IsTest,Main prod class tested,Production classes tested
+.,org.example,EraseContent,Eraser,12,1,1,9,0,,
+.,org.example,FileOperations,getValue,3,1,0,8,0,,
+.,org.example,FileOperations,setValue,3,1,1,12,0,,
+.,org.example,FileOperations,replaceStringInFile,18,2,3,16,0,,
+.,org.example,Main,getMd5,15,2,1,15,0,,
+.,org.example,Main,entryCounter,12,2,0,34,0,,
+.,org.example,Main,replaceStringInFile,14,3,3,46,0,,
+.,org.example,Main,main,155,16,1,66,0,org.example.UserData,org.example.UserData; org.example.Main; org.example.Query; org.example.Md5
+.,org.example,Md5,getMd5,3,1,1,5,0,,
+.,org.example,Query,createQuery,39,4,4,14,0,org.example.UserData,org.example.UserData; org.example.FileOperations
+.,org.example,Query,insertIntoTable,17,2,3,53,0,org.example.UserData,org.example.UserData
+.,org.example,Query,selectFromTable,36,6,3,71,0,org.example.UserData,org.example.UserData
+.,org.example,Query,deleteTable,11,1,3,111,0,org.example.UserData,org.example.UserData
+.,org.example,Security,getMd5,15,2,1,8,0,,
+.,org.example,UserData,getDatabaseCount,3,1,0,16,0,,
+.,org.example,UserData,setDatabaseCount,3,1,1,20,0,,
+.,org.example,UserData,getUserDatabase,3,1,0,24,0,,
+.,org.example,UserData,setUserDatabase,3,1,1,28,0,,
+.,org.example,UserData,getUserId,3,1,0,33,0,,
+.,org.example,UserData,setUserId,3,1,1,37,0,,
+.,org.example,UserData,getFirstName,3,1,0,41,0,,
+.,org.example,UserData,setFirstName,3,1,1,45,0,,
+.,org.example,UserData,getLastName,3,1,0,49,0,,
+.,org.example,UserData,setLastName,3,1,1,53,0,,
+.,org.example,UserData,getUsername,3,1,0,57,0,,
+.,org.example,UserData,setUsername,3,1,1,61,0,,
+.,org.example,UserData,getPassword,3,1,0,65,0,,
+.,org.example,UserData,setPassword,3,1,1,69,0,,
+.,org.example,UserData,getSecurityQuestion,3,1,0,73,0,,
+.,org.example,UserData,setSecurityQuestion,3,1,1,77,0,,
+.,org.example,UserData,getSecurityAnswer,3,1,0,81,0,,
+.,org.example,UserData,setSecurityAnswer,3,1,1,85,0,,

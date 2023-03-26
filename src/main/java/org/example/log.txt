@@ -1,0 +1,6 @@
+E1+kishoregan+20230302_212307+drop table info;
+E1+kishoregan+20230302_213008+create database university;
+E1+kishoregan+20230302_214623+create table library (id int, name varchar(45), address varchar(45));
+E1+kishoregan+20230302_214848+create table library (id int, name varchar(45), address varchar(45));
+E1+kishoregan+20230302_215507+Insert into library values (1, killam, dal ave);
+E1+kishoregan+20230302_215642+Insert into library values (2, sexton, barrington);E1+kishoregan+20230302_220031+select * from library;E1+kishoregan+20230302_220116+select id from library;E1+kishoregan+20230302_220224+select name from library;
